@@ -1,0 +1,5 @@
+numpy==1.19.5
+tensorflow==2.4.1
+PIL==8.1.0
+matplotlib==3.3.4
+sklearn==0.21.3
